@@ -11,4 +11,4 @@ Useful Websites:
 - https://www.hybrid-analysis.com/
 
 Useful Scripts
-- 
+- OLETOOLS - http://www.decalage.info/python/oletools 
