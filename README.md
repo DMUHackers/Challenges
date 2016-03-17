@@ -6,4 +6,6 @@ WEB = Web Exploitation
 
 ST = Stenography 
 
+FO = Forensics
+
 MC = Mini Challenges
