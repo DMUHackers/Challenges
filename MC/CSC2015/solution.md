@@ -1,7 +1,9 @@
 # Minichallenge Solution
 
 1. On opening the file you can see we have a pcap file, two python scripts and a .crypt file
+
 2. We start by taking a look at what we have by analysing the pyhon scripts we can see that decrypt.py is expecting some sort of key, and that trash.py was used to encrypt the original file
+
 3. So we need to understand just how the key was generated, a closer inspection of trash.py reveals a few key lines.
 
    So from this it looks like the key was sent to 192.168.1.201, starting with `START` and ending with `END` with the key (A OR B) in the middle being dictated by the `SOMETHING` frames and the timing
