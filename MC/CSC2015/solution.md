@@ -4,7 +4,7 @@
 2. We start by taking a look at what we have by analysing the pyhon scripts we can see that decrypt.py is expecting some sort of key, and that trash.py was used to encrypt the original file
 3. So we need to understand just how the key was generated, a closer inspection of trash.py reveals a few key lines
 
-... ```python
+```python
 def transmit_key(key):
     s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
     s.bind(('', 1234))
