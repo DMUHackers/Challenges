@@ -1,8 +1,5 @@
-#Challenge 3: That picture was taken when?
-The russian MOD claimed that this picture (of 48.098203, 37.754731) was taken on July 14th and they released it to the public shortly after.
+#Finding Weapons in Social Media Images
 
-Can you debunk this claim and give an alternative time period the picture had to be taken from?
+This challenge will show how to download and analyze images from a social media (Twitter) account using Python.
 
-Hint: If only there was a way to access historic images in popular mapping software
-
-Solution: [Tutorial Here](https://www.bellingcat.com/resources/how-tos/2015/05/31/how-to-find-historical-imagery-of-russias-faked-satellite-photos/) 
+[Tutorial credit Bellingcat](https://www.bellingcat.com/resources/2016/01/11/automatically-finding-weapons-in-social-media-images-part-1/)
