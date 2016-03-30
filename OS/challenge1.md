@@ -1,5 +1,5 @@
 #That picture was taken when?
-The russian MOD claimed that this picture (of 48.098203, 37.754731) was taken on July 14th and they released it to the public shortly after.
+The russian MOD claimed that this picture (of 48.098203, 37.754731) was taken on July 14th 2014 and they released it to the public shortly after.
 
 Can you debunk this claim and give an alternative time period the picture had to be taken from?
 
