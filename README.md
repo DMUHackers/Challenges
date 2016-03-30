@@ -9,3 +9,5 @@ ST = Stenography
 FO = Forensics
 
 MC = Mini Challenges
+
+OS = Open Source Intel
