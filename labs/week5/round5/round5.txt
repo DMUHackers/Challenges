@@ -1,0 +1,14 @@
+Round 5:
+
+The importance of word lists.
+
+Try running john on pass1....
+
+
+It is a simple alphabetic password, even so, the number of possibilities is very large and this will take a while.
+When you get bored, cancel then try the following:
+
+	'john pass1 -w=/usr/share/wordlists/fasttrack.txt'
+
+This should be a lot quicker!
+Now try the same thing with pass2...

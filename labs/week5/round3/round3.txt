@@ -1,0 +1,18 @@
+Round 3:
+
+Try some simple brute forcing with hashcat.
+
+you may need to update hashcat:
+
+	'apt-get update'
+	'apt-get install hashcat'
+
+For the first file try the following command:
+
+	'hashcat -m 0 -a 3 hash1 ?a?a?a?a'
+
+This should be nice and quick.
+Now try hash2 and hash3. The passwords for them are 5 and 6 characters long respectively. You can modify the command line to suit.
+
+** After each one has started press 's' to show the status, including estimated time to complete. p to you if yo want to wait for hash3 to finish!
+

@@ -1,0 +1,18 @@
+Round 4:
+
+try breaking these with John ..... it will be (mostly) very easy.
+
+
+Start with:
+
+	'john pass1'
+
+pass1 and pass2 are simple words which are included in john's default word list.
+
+The password for pass3 is a name, but no meta data was entered for the user.
+This will take a while, so cancel it when you get bored.
+
+The password for pass4 is the same but the name has been entered in the user's meta data.
+John's defauult mode will use the meta data for a user as part of its word list.
+
+The password for pass5 is based on the user details, but John automatically tries certain simple mangling. 
