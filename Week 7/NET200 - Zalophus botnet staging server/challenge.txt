@@ -1,0 +1,13 @@
+GAIN ACCESS TO THE MALWARE COMMUNICATION DATA
+
+During an offensive reconnaissance mission against the notorious Zalophus botnet, we gained access to the core staging server.The botnet master was actively using the server to test the latest release of his malware before the official release.
+
+Luckily for us, he stored all the private keys for his jump boxes in this central location.
+We managed to rip these and some test bot communications before we were noticed and the server was shut down.
+
+Can you identify the secret message in the communication?
+
+You will need the files below in order to solve this challenge.
+
+- keys.tar.gz
+- bot-comms.pcap

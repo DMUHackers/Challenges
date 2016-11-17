@@ -1,0 +1,3 @@
+DECRYPT A FILE
+
+We found a file that has been encrypted using the ransomware you analyzed before. Can you find a way to decrypt it?

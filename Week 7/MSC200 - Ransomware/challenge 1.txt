@@ -1,0 +1,3 @@
+FIND THE SERIAL NUMBER
+
+We managed to obtain an evaluation copy of the new ransomware used. Unfortunately it requires a serial number before it can be used. Can you analyze the malware and identify this serial number? We obtained both the Windows and Linux version use whatever you feel most comfortable with :)
