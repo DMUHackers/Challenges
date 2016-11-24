@@ -1,0 +1,5 @@
+RAID RECOVERY
+
+The CSI Cyber team managed to get a hold of some hard drives containing important information. Unfortunately not all disk sectors were readable. The nice thing is they have a RAID setup so the information should be recoverable. Can you recover the data for us?
+
+Hint: they use a dedicated parity disk.

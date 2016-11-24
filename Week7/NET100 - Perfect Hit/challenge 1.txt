@@ -1,0 +1,5 @@
+A GREAT VOICE
+
+The investigation team was able to record a secret phone call between the prime suspect, Sophie E. Bextor and her husband. Can you uncover what they were talking about?
+
+Flag format: CTF{some_words}

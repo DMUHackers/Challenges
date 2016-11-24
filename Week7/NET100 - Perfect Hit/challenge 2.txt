@@ -1,0 +1,6 @@
+THE PASSWORD
+
+The team really needs Sophie's password to get access to her computer. Can you find it?
+Hint: The password used is in the rockyou word-list.
+
+Flag format: CTF{the_password}

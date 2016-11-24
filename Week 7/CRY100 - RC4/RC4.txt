@@ -1,8 +1,0 @@
-RC4
-
-We found this book encrypted line by line using RC4. Can you decrypt it and get the flag.
-
-You will need the files below in order to solve this challenge:
-
-- challenge.txt
-- chall.py
